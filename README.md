@@ -94,16 +94,9 @@ After completing this project, users will be able to:
 Author
 
 Francesco
-MSc/PhD Researcher – Electrical and Electronic Engineering
+MSc – Electrical and Electronic Engineering
 Specialization: Power Systems, Power Electronics, and Advanced Energy Systems
 
 License
 
 This project is for educational and research purposes.
-
-If you would like, I can also generate:
-• A professional project abstract
-• A GitHub repository structure
-• A complete commented MATLAB main script
-• A LaTeX report for submission
-• A conference-paper style documentation
